@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm **Afnaan Ahmed**
 
 - I'm either building stuff, breaking said stuff, or doing both!
-- I also host hacking challenges on my website, so stay tuned for that
+- I write about Security and other stuff on Linkedin and Medium.
+- I also host hacking challenges on my website, go wild and test your skills on this one.
 
 ---
 
@@ -38,11 +39,11 @@ Read more on [my Medium page](https://medium.com/@afnaan2180)
 ## 🤝 Let's Connect
 
 - 🌐 Portfolio & personal site: [afnaan.me](https://afnaan.me)
-- 🏢 LinkedIn: linkedin.com/in/afnaan-ahmed-2180  
-- 🐦 X (Twitter): @Afnaan2180  
+- 🏢 LinkedIn: [Mohammed Afnaan Ahmed](linkedin.com/in/afnaan-ahmed-2180) 
+- 🐦 X (Twitter): [Afnaan2180](https://x.com/afnaan2180)
 - 📧 Email: afnaan2180@gmail.com  
 - 📱 Phone: +91‑70750‑08994
-- 📝 Medium: [my Medium](https://medium.com/@afnaan2180)
+- 📝 Medium: [Afnaan's Medium](https://medium.com/@afnaan2180)
 
 ---
 
