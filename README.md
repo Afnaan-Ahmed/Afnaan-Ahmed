@@ -1,11 +1,7 @@
 ### Hi there 👋 I'm **Afnaan Ahmed**
 
-- 🎓 **Bachelor of Technology in CSE** at Balaji Institute of Technology and Science (2021‑2025)
-- 🔒 Cybersecurity & Web Security Researcher, passionate about vulnerability assessment, pen-testing, and ethical hacking  
-- 💻 Skilled in Python, HTML, CSS, JavaScript, C, MySQL, and Git 
-- 🛡️ Skilled with tools like Kali Linux, Nmap, Burp Suite, Sqlmap, Metasploit & Wireshark  
-- ☁️ Experienced with VMWare, Linux, Windows environments
-- 🌐 Check out my portfolio: https://afnaan.me 
+- I'm either building stuff, breaking stuff, or doing both!
+- I also host hacking challenges on my website, so stay tuned for that
 
 ---
 
