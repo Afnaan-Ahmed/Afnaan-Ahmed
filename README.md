@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm **Afnaan Ahmed**
 
-- I'm either building stuff, breaking stuff, or doing both!
+- I'm either building stuff, breaking said stuff, or doing both!
 - I also host hacking challenges on my website, so stay tuned for that
 
 ---
