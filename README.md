@@ -9,19 +9,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### **[Project Overhaul](https://github.com/afnaan-ahmed/Project-Overhaul)**  
-Unified command‑line interface integrating pen‑testing tools: Nmap, Netcat, Gobuster, Amass, Metasploit, Sqlmap, Hashcat, John‑the‑Ripper.
-
-### **[Nmap Command Generator](https://github.com/afnaan-ahmed/nmap-command-generator)**  
-Interactive CLI tool in Python for auto‑generating Nmap commands based on user input.
-
-### **[Raspberry‑Pi‑Pico‑HID‑Attack](https://github.com/afnaan-ahmed/Raspberry‑Pi‑Pico‑HID‑Attack)**  
-MicroPython script to turn a Pi Pico into a HID keyboard delivering malicious payloads.
-
----
-
 ## 📊 GitHub Stats
 
 ![Afnaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afnaan-ahmed&show_icons=true&theme=tokyonight&count_private=true&hide=prs&include_all_commits=true) 
