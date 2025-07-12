@@ -15,8 +15,8 @@
 
 ## 🏆 Certifications & Training
 
-- CompTIA Security+ (SY0‑701)  
-- ISC2 Certified in Cybersecurity  
+- **CompTIA Security+ (SY0‑701)**  
+- **ISC2 Certified in Cybersecurity (CC)**
 - Ethical Hacking Essentials (EHE) @ EC-Council
 - Practical Ethical Hacking (PEH) @ TCM-Security
 - PWST, OSINT Fundamentals, External Pentest Playbook @ TCM-Security
