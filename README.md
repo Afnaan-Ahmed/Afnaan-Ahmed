@@ -36,15 +36,4 @@ Read more on [my Medium page](https://medium.com/@afnaan2180)
 
 ---
 
-## 🤝 Let's Connect
-
-- 🌐 Portfolio & personal site: [afnaan.me](https://afnaan.me)
-- 🏢 LinkedIn: [Mohammed Afnaan Ahmed](linkedin.com/in/afnaan-ahmed-2180) 
-- 🐦 X (Twitter): [Afnaan2180](https://x.com/afnaan2180)
-- 📧 Email: afnaan2180@gmail.com  
-- 📱 Phone: +91‑70750‑08994
-- 📝 Medium: [Afnaan's Medium](https://medium.com/@afnaan2180)
-
----
-
 Thanks for stopping by! Let’s build secure and user-friendly experiences together 😊
