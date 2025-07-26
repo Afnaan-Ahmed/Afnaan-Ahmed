@@ -1,7 +1,7 @@
-### Hi there 👋 I'm **Afnaan Ahmed**
+### Hi there 👋 I'm **Mohammed Afnaan Ahmed**
 
 - I'm either building stuff, breaking said stuff, or doing both!
-- I write about Security and other stuff on Linkedin and Medium.
+- I share quality content about Cyber Security on Linkedin and Medium.
 - I also host hacking challenges on my website, go wild and test your skills on this one.
 
 ---
