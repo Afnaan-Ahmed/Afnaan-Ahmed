@@ -32,8 +32,14 @@ I also write about secure development, security, and privacy:
 - "I Built a Portfolio Website That’s (Almost) Unhackable — Here’s How"  
 - "Plug, Boot, Vanish: How I Turned a USB Stick into a Portable Privacy Fortress"  
 
-Read more on [my Medium page](https://medium.com/@afnaan2180)
+Read more about it on my [Medium page](https://medium.com/@afnaan2180)
 
----
+--
+
+##### Let's connect on [Linkedin](https://linkedin.com/in/afnaan-ahmed-2180)
+
+##### Visit my [Personal Website](https://afnaan.me)
+
+--
 
 Thanks for stopping by! Let’s build secure and user-friendly experiences together 😊
