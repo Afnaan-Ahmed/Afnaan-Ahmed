@@ -6,12 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Afnaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afnaan-ahmed&show_icons=true&theme=tokyonight&count_private=true&hide=prs&include_all_commits=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afnaan-ahmed&layout=compact&theme=tokyonight)
-
----
 
 ## 🏆 Certifications & Training
 
