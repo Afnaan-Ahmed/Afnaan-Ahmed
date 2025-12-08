@@ -29,12 +29,12 @@ I also write about secure development, security, and privacy:
 
 Read more about it on my [Medium page](https://medium.com/@afnaan2180)
 
---
+---
 
 ##### Let's connect on [Linkedin](https://linkedin.com/in/afnaan-ahmed-2180)
 
 ##### Visit my [Personal Website](https://afnaan.me)
 
---
+---
 
 Thanks for stopping by! Let’s build secure and user-friendly experiences together 😊
