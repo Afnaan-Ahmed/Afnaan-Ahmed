@@ -15,6 +15,7 @@
 
 ## 🏆 Certifications & Training
 
+- **EC-Council Certified Ethical Hacker v13**
 - **CompTIA Security+ (SY0‑701)**  
 - **ISC2 Certified in Cybersecurity (CC)**
 - Ethical Hacking Essentials (EHE) @ EC-Council
