@@ -1,40 +1,74 @@
-### Hi there 👋 I'm **Mohammed Afnaan Ahmed**
+<div align="center">
 
-- I'm either building stuff, breaking said stuff, or doing both!
-- I share quality content about Cyber Security on Linkedin and Medium.
-- I also host hacking challenges on my website, go wild and test your skills on this one.
+# Hi there 👋 
+
+</div>
+
+## I'm **Mohammed Afnaan Ahmed**
+
+- I'm either building stuff, breaking said stuff, or doing both! 🔨
+- I share quality content about Cyber Security on Linkedin and Medium. 
+- I write articles and build tools related to offensive security. 🛠
+
+<br>
+
+---
+
+## 🌐 My Website
+
+- [Afnaan.me](https://afnaan.me) - My secure-by-design portfolio website. ✨
+<br><br><br>
+---
+
+## 🏆 Certifications 
+<div align="center">
+    <img src="media/ceh-badge.webp" width=150px alt="ceh-badge" />
+    <img src="media/comptia-security-plus-badge.webp" width=150px alt="sec-plus-badge" />
+    <img src="media/isc2-cc-badge.webp" width=150px alt="cc-badge" />
+</div>
+<br><br>
+
+---
+
+## 📈 Stats
+<div align="center">
+
+![Afnaan-Ahmed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afnaan-Ahmed&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 👨‍💻 Technical Skills
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,mint,ubuntu,windows,vscode,py,bash,c,raspberrypi,git,html,css,js,md,&perline=5)](https://skillicons.dev)
+
+
+</div>
+
+
+----
+
+
+## 🤝 Find me here
+
+<div align="center">
+
+[Linkedin](https://linkedin.com/in/afnaan-ahmed-2180)
+
+[Medium](https://medium.com/@afnaan2180)
+
+[TryHackMe](https://tryhackme.com/p/0v3rH4uL)
+
+[X](https://twitter.com/afnaan2180/)
+
+</div>
+
+<br>
 
 ---
 
 
-## 🏆 Certifications & Training
-
-- **EC-Council Certified Ethical Hacker v13**
-- **CompTIA Security+ (SY0‑701)**  
-- **ISC2 Certified in Cybersecurity (CC)**
-- Ethical Hacking Essentials (EHE) @ EC-Council
-- Practical Ethical Hacking (PEH) @ TCM-Security
-- PWST, OSINT Fundamentals, External Pentest Playbook @ TCM-Security
-- And a lot more....
-
-
----
-
-## 📚 More Content
-
-I also write about secure development, security, and privacy:
-
-- "I Built a Portfolio Website That’s (Almost) Unhackable — Here’s How"  
-- "Plug, Boot, Vanish: How I Turned a USB Stick into a Portable Privacy Fortress"  
-
-Read more about it on my [Medium page](https://medium.com/@afnaan2180)
-
----
-
-##### Let's connect on [Linkedin](https://linkedin.com/in/afnaan-ahmed-2180)
-
-##### Visit my [Personal Website](https://afnaan.me)
-
----
-
-Thanks for stopping by! Let’s build secure and user-friendly experiences together 😊
+Thanks for stopping by! Let’s build a secure digital world! 😊
