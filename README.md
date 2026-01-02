@@ -22,6 +22,7 @@
 
 ## 🏆 Certifications 
 <div align="center">
+    <img src="media/ceh-master-badge.webp" width=150px alt="ceh-master-badge" />
     <img src="media/ceh-practical-badge.webp" width=150px alt="ceh-practical-badge" />
     <img src="media/ceh-badge.webp" width=150px alt="ceh-badge" />
     <img src="media/comptia-security-plus-badge.webp" width=150px alt="sec-plus-badge" />
