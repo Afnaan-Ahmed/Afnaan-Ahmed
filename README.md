@@ -46,23 +46,5 @@
 ----
 
 
-## 🤝 Find me here
-
-<div align="center">
-
-[Linkedin](https://linkedin.com/in/afnaan-ahmed-2180)
-
-[Medium](https://medium.com/@afnaan2180)
-
-[TryHackMe](https://tryhackme.com/p/0v3rH4uL)
-
-[X](https://twitter.com/afnaan2180/)
-
-</div>
-
-<br>
-
----
-
 
 Thanks for stopping by! Let’s build a secure digital world! 😊
